@@ -1,0 +1,7 @@
+.signin input{
+    height: 40px;
+    width: 400px;
+    border-radius: 4px;
+    margin-top: 4px;
+    border: 1px solid #c4c4c4
+}
